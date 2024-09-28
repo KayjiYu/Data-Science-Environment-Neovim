@@ -25,4 +25,6 @@ Molten is a jupyter like code runner.
 
 2. Vim-Slime
 
-Vim-Slime sends selected codes to a REPL, usually iPython splitted and opened by TMUX. 1. TMUX to split and open a new window side by side. Launch ipython in the new window and send selected python code to execute.
+Vim-Slime sends selected codes to a REPL, usually iPython splitted and opened by TMUX.
+
+- TMUX to split and open a new window side by side. Launch ipython in the new window and send selected python code to execute.
