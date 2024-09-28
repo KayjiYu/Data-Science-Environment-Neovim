@@ -4,7 +4,8 @@
 
 - Kitty
 - Wezterm.
-  Both Kitty and Wezterm can render graphics. Kitty is faster. Wezterm has higher resolution but a litter bit laggy.
+
+Both Kitty and Wezterm can render graphics. Kitty is faster. Wezterm has higher resolution but a litter bit laggy.
 
 ## Text Editor
 
